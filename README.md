@@ -10,7 +10,7 @@ My name is **Esakkindhar**. I'm passionate about technology, open source, and co
 
 - **Languages:** Python, JavaScript, TypeScript
 - **Frameworks/Libraries:** Node.js
-- **DevOps & Cloud:** GitHub Actions, Docker, AWS, Linux
+- **DevOps & Cloud:** GitHub Actions, Linux
 - **Tools:** Git, VS Code
 
 I'm currently learning more about GitHub Actions, DevOps practices, and new frameworks to expand my skill set.
