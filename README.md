@@ -6,8 +6,13 @@
 
 ### Building ideas into reality through technology.
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Esakkindhar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esakkindhar-a-4ba95832a/)
+<a href="https://github.com/Esakkindhar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/esakkindhar-a-4ba95832a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -15,15 +20,14 @@
 
 ## 👨‍💻 About Me
 
-I'm **Esakkindhar**, a passionate developer driven by curiosity and a love for solving problems.
+I'm **Esakkindhar**, a passionate developer interested in building innovative software solutions.
 
-- 💻 Interested in software development and emerging technologies.
-- ☁️ Exploring DevOps and Cloud Computing.
-- 🚀 Interested in building practical, scalable solutions.
-- 🔍 Continuously learning new technologies and development practices.
-- 🤝 Open to collaboration, innovative ideas and open-source contributions.
-
-> My goal is to become a well-rounded engineer and contribute to meaningful technology projects.
+- 💻 Interested in Software Development.
+- 🚀 Exploring modern technologies.
+- ☁️ Learning Cloud Computing and DevOps.
+- 🧠 Improving problem-solving skills.
+- 🔍 Always exploring new development technologies.
+- 🤝 Open to collaboration and innovative projects.
 
 ---
 
@@ -33,19 +37,23 @@ I'm **Esakkindhar**, a passionate developer driven by curiosity and a love for s
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts" />
 
-### Frameworks & Development
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,react,html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
 
-### DevOps & Cloud
+### Backend Development
 
-<img src="https://skillicons.dev/icons?i=linux,githubactions" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### Tools
+### Database & Cloud
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </div>
 
@@ -55,9 +63,9 @@ I'm **Esakkindhar**, a passionate developer driven by curiosity and a love for s
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Esakkindhar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Esakkindhar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Esakkindhar&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Esakkindhar&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -67,27 +75,27 @@ I'm **Esakkindhar**, a passionate developer driven by curiosity and a love for s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esakkindhar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Esakkindhar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Esakkindhar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Esakkindhar/Esakkindhar/output/github-contribution-grid-snake-dark.svg" />
 
-</div>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Esakkindhar/Esakkindhar/output/github-contribution-grid-snake.svg" />
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Esakkindhar&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Esakkindhar/Esakkindhar/output/github-contribution-grid-snake.svg"
+    width="100%" />
+</picture>
 
 </div>
 
@@ -100,17 +108,15 @@ I'm **Esakkindhar**, a passionate developer driven by curiosity and a love for s
 I'm always interested in connecting with developers, exploring new technologies and collaborating on exciting projects.
 
 <a href="https://github.com/Esakkindhar">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW%20ME-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/esakkindhar-a-4ba95832a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
-<br/><br/>
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:243B55,100:141E30&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:243B55,100:141E30&height=120&section=footer" width="100%"/>
 
 </div>
